@@ -1779,7 +1779,7 @@
             };
             static events = N.A.events;
             static sources = N.A.sources;
-            static version = "2.0.0-rc.5";
+            static version = "2.0.0";
             static imports = {
               delta: o(),
               parchment: i,
